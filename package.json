@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/alfarotama/SP-2.git",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Alfaro Tama <alfarohadiyantama13@gmail.com>"
 }
